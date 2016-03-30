@@ -1,16 +1,6 @@
 # sea-201n3
-## Weeks 3-4 night and weekend track:
 ### Object Oriented Programming & the DOM
-**Instructors & TA's**
 
-*Instructor*: Scott Schmidt
-*Assistant Instructor*: Becky Peltz
-
-*TA's*
-- Thomas Phillips
-- Kate Lucas
-
-## Week 2 - Daily Plans
 ### Class 07
 1. Reminders:
   1. arrays & `for (key in array) {}` syntax
