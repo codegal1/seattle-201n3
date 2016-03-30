@@ -1,4 +1,4 @@
-#Weeks 5-6 nights and weekend track:
+# seattle-201n3
 ### Interactive Web Design
 
 ## Week 3 - Daily Plans

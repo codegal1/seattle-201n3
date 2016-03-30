@@ -1,4 +1,4 @@
-# Week 1, Class 4
+# Class 4
 
 # Reading Reminder
 * [“Functions, Methods & Objects” (JavaScript, Ch. 3)](https://canvas.instructure.com/courses/1015286/modules/items/9246684)

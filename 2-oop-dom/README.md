@@ -1,4 +1,4 @@
-# sea-201n3
+# seattle-201n3
 ### Object Oriented Programming & the DOM
 
 ### Class 07

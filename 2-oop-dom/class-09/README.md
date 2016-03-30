@@ -1,4 +1,4 @@
-# Week 3-4, Class 9
+# Class 9
 [**Week 4 Feedback**](https://canvas.instructure.com/courses/1015286/modules/items/9246717)
 *You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 

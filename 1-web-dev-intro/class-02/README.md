@@ -1,4 +1,4 @@
-# Week 1, Class 2
+# Class 2
 
 # Reading Reminder
 * ["Basic JavaScript Instructions" (JavaScript, Ch. 2)](https://canvas.instructure.com/courses/1015286/modules/items/9246676)

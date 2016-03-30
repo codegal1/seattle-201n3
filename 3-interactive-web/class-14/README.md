@@ -1,4 +1,4 @@
-# Week 5-6 Class-14
+# Class-14
 
 # Reading Reminder
 * [Chart.js and Canvas API Articles](https://canvas.instructure.com/courses/1015286/modules/items/9246725)

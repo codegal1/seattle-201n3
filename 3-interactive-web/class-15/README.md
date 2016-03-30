@@ -1,4 +1,4 @@
-# Week 5-6 Class-15
+# Class-15
 
 # Reading Reminder
 * ["The Past, Present & Future of Local Storage for Web Applications" Article](https://canvas.instructure.com/courses/1015286/modules/items/9246729)
