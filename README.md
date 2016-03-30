@@ -4,7 +4,6 @@ Welcome to sea-201n3!
 **Instructors & TA's**
 
 *Instructor*: Scott Schmidt
-*Assistant Instructor*: Becky Peltz
 
 *TA's*
 - Thomas Phillips
@@ -33,19 +32,19 @@ Check out the full [Table of Contents](SUMMARY.md).
 
 **Room**: In "The East/Hardy” classroom on the Basement level
 
-**Instructional Lecture:**
+**Instructional Lecture: The Easy**
 - Monday: 6:30pm to 9:30pm;
 - Saturday: 9am to 12pm (lunch 12pm-1pm).
-**Instructional Lab:**
+**Instructional Lab: The Hardy**
 - Wednesday: 6:30pm to 9:30pm;
 - Saturday: 1pm-4pm
-**Co-Work Lab:**
+**Co-Work Lab: The Hardy**
 - Tuesday & Thursday: 6:30pm to 930pm
 
 **Homework**: There are reading and coding assignments several times a week.
 
 **Duration**:
-Night courses meet Monday through Thursday, plus one weekend day. In weeks two through six, 2 weeknight classes will be unattended co-wroking lab time.
+Night courses meet Monday through Thursday, plus one weekend day. In weeks two through six, 2 weeknight classes will be unattended co-working lab time.
 * First class: April 5, 2016
 * Last class: May 28, 2016
 
@@ -56,7 +55,7 @@ Lecture Notes will be a markdown file in the class repository.
 
 ## Assignments
 
-Lab-time code assignments follow each class time. You can find these assignments in the subdirectories of each class folder. Asignment content will very from day to day, depedning on the topic. Some of the lab assignments will be pair programming assignments.
+Lab-time code assignments follow each class time. You can find these assignments in the subdirectories of each class folder. Assignment content will very from day to day, depending on the topic. Some of the lab assignments will be pair programming assignments.
 
 Instructions for completing and submitting the assignments can be found in the README files of the appropriate subdirectories.
 

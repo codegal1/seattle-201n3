@@ -1,16 +1,6 @@
 # sea-201n3
-## Weeks 1-2 night and weekend track:
 ### Introduction to Web Development
-**Instructors & TA's**
 
-*Instructor*: Scott Schmidt
-*Assistant Instructor*: Becky Peltz
-
-*TA's*
-- Thomas Phillips
-- Kate Lucas
-
-##Week 1 - Daily Plans
 ###Class 01
 1. Intro to Code Fellows
 2. Introductions
