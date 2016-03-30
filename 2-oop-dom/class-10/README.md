@@ -1,4 +1,4 @@
-# Week 3-4, Class 10
+# Class 10
 
 # Reading Reminder
 * ["Events" (JavaScript, Ch. 6)](https://canvas.instructure.com/courses/1015286/modules/items/9246710)

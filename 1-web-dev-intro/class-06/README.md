@@ -1,4 +1,4 @@
-# Week 1, Class 6
+# Class 6
 
 # Reading Reminder
 * ["Color" (HTML & CSS, Ch. 11)](https://canvas.instructure.com/courses/1015286/modules/items/9246694)

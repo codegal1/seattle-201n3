@@ -1,4 +1,4 @@
-# sea-201n3
+# seattle-201n3
 ### Introduction to Web Development
 
 ###Class 01

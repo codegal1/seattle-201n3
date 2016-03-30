@@ -1,4 +1,4 @@
-# Week 3-4, Class 12
+# Class 12
 
 # Reading Reminder
 * ["Layout" (HTML & CSS, Ch. 15)](https://canvas.instructure.com/courses/1015286/modules/items/9246718)

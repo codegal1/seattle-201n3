@@ -1,4 +1,4 @@
-# Week 5-6 Class-13
+# Class-13
 [**Week 6 Feedback**]()
 *You will receive an email from Code Fellows with a link to the survey. Once complete, please complete this assignment as well.*
 

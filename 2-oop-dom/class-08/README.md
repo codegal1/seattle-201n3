@@ -1,4 +1,4 @@
-# Week 3-4, Class 8
+# Class 8
 
 # Reading Reminder
 * [“Document Object Model” (JavaScript, Ch. 5)](https://canvas.instructure.com/courses/1015286/modules/items/9246701)
