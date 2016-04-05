@@ -13,8 +13,8 @@ In class, we wrote a program that accepted user input and, based on that input, 
 [Submit Your Work](https://canvas.instructure.com/courses/1015286/modules/items/9246674)
 
 ## User Stories (MVP)
- - As a developer, I want to use basic markup to structure my index.html page, so the layout is in the order of assembly I prefer
- - As a developer, I want to receive and use the user's name, so that the program is personalized to their experience.
+ - As a developer, I want to create a simple bio / resume page, so that my users can get to know me.
+ - As a developer, I want to ask the user for their name and alert them with a personalized Hello, so they know I care!
 
 ## Technical Requirements
  - Work will be done in an HTML file in Atom, and then submitted via Canvas (copy and paste into submission)
